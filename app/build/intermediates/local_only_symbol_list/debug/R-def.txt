@@ -1,0 +1,26 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color dark_green
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id btnCancel
+id btnExplicitActivity
+id btnImageSelectActivity
+id btnImplicitActivity
+id btnOkay
+id editTextChoice
+id textViewListActivities
+id textViewResultExplicitActivity
+layout activity_explicit
+layout activity_implicit
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string resultexplicitactivity
+style Base.Theme.Lab_Intents
+style Theme.Lab_Intents
+xml backup_rules
+xml data_extraction_rules
